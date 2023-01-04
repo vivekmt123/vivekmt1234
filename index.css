@@ -1,0 +1,37 @@
+.header{
+    padding-top: 19px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 50px;
+}
+.package
+{
+    padding-top: 20px;
+    margin-left: 142px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 100px;
+    
+}
+.grid-container
+{
+    display: flex;
+    flex-direction: row;
+    padding: 70px;
+
+    margin-left: 70px;
+    padding-bottom: 0px;
+}
+.grid-container div
+{
+margin-left: 10px;
+
+}
+.text
+{
+    padding-left: 19px;
+}
+
